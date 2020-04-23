@@ -1,27 +1,24 @@
 
-### Jira link to isuue
-- add jira ticket link here
-
+### Jira link 
+- Add jira ticket link here
 
 ### Bug Description
-- describe the problem
+- Describe the problem
 
+### Cause 
+- Describe the root cause for the issue
 
-### cuase for the issue
-- describe the root cause for the issue
+### Solution description
+- Describe the issue resolution approach
 
+### Steps to reproduce this issue/ Relevant test cases
+- List all the steps & test cases to be followed to reproduce this issue
 
-### steps to reproduce the issue
-- step-1
-- step-2
-- step-3
-
-
-### screenshots
+### Screenshots
 
  Before changes      |   After changes
 :--------------------------------------:|:-----------------------------:
 ** original screenshot ** | ** updated screenshots **
 
-### notes or comments 
-- genral notes or comments in regards to additional info
+### Notes or Comments 
+- Additional info
