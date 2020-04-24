@@ -11,8 +11,8 @@
 ### Solution description
 - Describe the issue resolution approach
 
-### Steps to reproduce this issue/ Relevant test cases
-- List all the steps & test cases to be followed to reproduce this issue
+### Steps to reproduce this issue
+- List all the steps to be followed to reproduce this issue
 
 ### Screenshots
 
